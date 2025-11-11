@@ -1,7 +1,7 @@
 # 时间：2025-11-11
 主要代码：
 # 01-Agent_project_py
-1. 02-deepseek应用Deepseek的api接口，实现LLM本地化
+## (1)02-deepseek应用Deepseek的api接口，实现LLM本地化
 # 03-Scene_analysis
 ## 1.scene_data_get_save.py
 ### (1)处理与服务器的持续通信。等待用户输入指令来决定何时发送数据。
